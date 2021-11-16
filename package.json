@@ -1,0 +1,19 @@
+{
+  "name": "project-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annie-fav/project-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/annie-fav/project-sample/issues"
+  },
+  "homepage": "https://github.com/annie-fav/project-sample#readme"
+}
